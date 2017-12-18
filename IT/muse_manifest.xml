@@ -1,0 +1,98 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4071467339"/>
+    <file name="master_en.css" crc="182554046" ref="about-us:index:product:contact-us:shop"/>
+    <file name="about-us.css" crc="385930250" ref="about-us"/>
+    <file name="index.css" crc="76235141" ref="index"/>
+    <file name="product.css" crc="144546145" ref="product"/>
+    <file name="contact-us.css" crc="352385688" ref="contact-us"/>
+    <file name="shop.css" crc="4084893727" ref="shop"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:shop:contact-us:about-us:product"/>
+    <file name="museutils.js" crc="3865766194" ref="index:shop:contact-us:about-us:product"/>
+    <file name="pie.js" crc="3827607177" ref="index:shop:contact-us:about-us:product"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index:shop:contact-us:about-us:product"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index:shop:contact-us:about-us:product"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:shop:contact-us:about-us:product"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:shop:contact-us:about-us:product"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:shop:contact-us:about-us:product"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:shop:contact-us:about-us:product"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:shop:contact-us:about-us:product"/>
+    <file name="form_check.php" crc="4257733307" ref="contact-us"/>
+    <file name="form_throttle.php" crc="3966014863" ref="contact-us"/>
+    <file name="form-u539.php" crc="3865037701" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4058492607" ref="index"/>
+    <file name="u1202-r-grad.png" crc="530708042" ref="index"/>
+    <file name="u1202-m-grad.png" crc="33555109" ref="index"/>
+    <file name="u1202-a-grad.png" crc="313854956" ref="index"/>
+    <file name="facebook_logo-normal160x160.png" crc="4136839277" ref="index"/>
+    <file name="logo.png" crc="3900440841" ref="index:shop:contact-us:about-us:product"/>
+    <file name="twitter-logo-normal160x160.png" crc="47163357" ref="index"/>
+    <file name="instagram_logo-normal160x160.png" crc="4101770899" ref="index"/>
+    <file name="facebook_logo-roll160x160.png" crc="4041150544" ref="index"/>
+    <file name="g-_logo-normal160x160.jpg" crc="3930436004" ref="index"/>
+    <file name="pinterest_logo-normal160x160.png" crc="4279650865" ref="index"/>
+    <file name="pinterest_logo-roll160x160.jpg" crc="9752062" ref="index"/>
+    <file name="instagram_logo-roll160x160.png" crc="448035497" ref="index"/>
+    <file name="g-_logo-google-plus160x160.jpg" crc="440473532" ref="index"/>
+    <file name="twitter-logo160x160.jpg" crc="211906575" ref="index"/>
+    <file name="followus_text.png" crc="418426982" ref="index"/>
+    <file name="followus_text2.png" crc="15379119" ref="index"/>
+    <file name="flag_of_the_united_kingdomsvg200x100.jpg" crc="349065153" ref="index"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="u2583-r-grad.png" crc="3863620658" ref="index"/>
+    <file name="u2583-m-grad.png" crc="72460079" ref="index"/>
+    <file name="flag_of_italysvg127x84.png" crc="4082787348" ref="index"/>
+    <file name="u2663-r-grad.png" crc="522653055" ref="index"/>
+    <file name="u2663-m-grad.png" crc="3852717951" ref="index"/>
+    <file name="flag_of_francesvg127x84.jpg" crc="3958198227" ref="index"/>
+    <file name="flag_of_spainsvg126x84.jpg" crc="4254253374" ref="index"/>
+    <file name="flag_of_germanysvg140x84.jpg" crc="40241573" ref="index"/>
+    <file name="down-arrow-livello 164x64.png" crc="233565317" ref="index"/>
+    <file name="down-arrow-livello 164x642.png" crc="233565317" ref="index"/>
+    <file name="u5335-grad.png" crc="4142280040" ref="index"/>
+    <file name="u5328-r-grad.png" crc="95831032" ref="index"/>
+    <file name="u5328-m-grad.png" crc="297634193" ref="index"/>
+    <file name="u5328-a-grad.png" crc="4189649201" ref="index"/>
+    <file name="wallpaper-2440368-u5604-fr.png" crc="4171124164" ref="index"/>
+    <file name="u5659-4.png" crc="3759072416" ref="index"/>
+    <file name="u5672-4.png" crc="3910953290" ref="index"/>
+    <file name="model1-u5671-fr.jpg" crc="3904593208" ref="index"/>
+    <file name="model3-u5670-fr.jpg" crc="4270527548" ref="index"/>
+    <file name="model2-u5660-fr.jpg" crc="3760118047" ref="index"/>
+    <file name="spedizione - copia-u5685-fr.jpg" crc="297392836" ref="index"/>
+    <file name="2model-u5693-fr.jpg" crc="283754882" ref="index"/>
+    <file name="u1428-grad.png" crc="3856329872" ref="index"/>
+    <file name="sample-u4589-fr.png" crc="4097197852" ref="shop"/>
+    <file name="wallpaper-2135986-u1452-fr.png" crc="452768984" ref="contact-us"/>
+    <file name="u1014-4.png" crc="3902673110" ref="contact-us"/>
+    <file name="u557-17.png" crc="3800290489" ref="contact-us"/>
+    <file name="u557-17-r.png" crc="77212729" ref="contact-us"/>
+    <file name="u557-17-m.png" crc="129559237" ref="contact-us"/>
+    <file name="u557-17-fs.png" crc="4127924108" ref="contact-us"/>
+    <file name="02543_naturalbridges_1366x768-u1175-fr.png" crc="156013369" ref="about-us"/>
+    <file name="u863-12.png" crc="4225361520" ref="about-us"/>
+    <file name="u856-9.png" crc="191708796" ref="about-us"/>
+    <file name="u862-9.png" crc="4159607802" ref="about-us"/>
+    <file name="model1.jpg" crc="3923156543" ref="product"/>
+    <file name="blank.gif" crc="4208392903" ref="product"/>
+    <file name="loading.gif" crc="3815509949" ref="product"/>
+    <file name="logo3.jpg" crc="3866662811" ref="product"/>
+    <file name="u5581-grad.png" crc="68745647" ref="product"/>
+    <file name="u5581-r-grad.png" crc="4269909709" ref="product"/>
+    <file name="u5586-grad.png" crc="38490215" ref="product"/>
+    <file name="u5586-r-grad.png" crc="120603465" ref="product"/>
+    <file name="u5590-grad.png" crc="48075319" ref="product"/>
+    <file name="u5590-r-grad.png" crc="3961551668" ref="product"/>
+    <file name="u5335-r-grad.png" crc="4256031983" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4124785194" mt="1398160411764" redirect="true"/>
+  <file name="shop.html" crc="488359523" mt="1398160411766" redirect="true"/>
+  <file name="contact-us.html" crc="535512096" mt="1398160411768" redirect="true"/>
+  <file name="about-us.html" crc="4015028047" mt="1398160411770" redirect="true"/>
+  <file name="product.html" crc="162077654" mt="1398160411771" redirect="true"/>
+</manifest>
